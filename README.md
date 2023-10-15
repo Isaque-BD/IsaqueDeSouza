@@ -1,4 +1,4 @@
-[![MasterHead](https://www.brasilcode.com.br/wp-content/uploads/2020/11/2.png)]
+![MasterHead](https://www.brasilcode.com.br/wp-content/uploads/2020/11/2.png)
 <h1 align="center">Olá, eu sou o Isaque de souza😎</h1>
 <h3 align="center">Sou um desenvolvedor Back-end em aprendizado</h3>
 <img align="right" alt = "Coding" width="400" src="https://programadorviking.com.br/wp-content/uploads/2020/11/Os-Melhores-Sites-Para-Desafios-de-Programacao.jpg">
