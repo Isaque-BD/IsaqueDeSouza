@@ -9,7 +9,7 @@
 
 - 🌱 Eu correntemente estou aprendendo **Python e Java**
 
-- 📫 How to reach me **isaquesc2@gmail.com**
+- 📫 como contatar-me **isaquesc2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
